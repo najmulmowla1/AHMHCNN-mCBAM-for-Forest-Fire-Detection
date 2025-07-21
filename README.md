@@ -69,3 +69,9 @@ If you use this code or model in your research, please cite:
   year={2025},
   doi={10.1109/ACCESS.2024.3524320}
 }
+
+## 📄 License
+
+This project is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** License.  
+You are free to share and adapt this work, even for commercial use, as long as you provide appropriate credit.  
+For more details, visit: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
