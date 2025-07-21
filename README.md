@@ -1,0 +1,1 @@
+# AHMHCNN-mCBAM-for-Forest-Fire-Detection
